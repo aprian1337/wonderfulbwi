@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">WonderfulBWI</string>
+    <string name="prehome_aloha">
+        Aloha,\n
+        <b><big>Dwiky!</big></b>
+    </string>
+    <string name="role">Student</string>
+    <string name="email_profile">dwikyapriyan@gmail.com</string>
+    <string name="goto_app">Let\'s Fly!</string>
+    <string name="wisata">Wisata</string>
+    <string name="detail">Detail Wisata</string>
+    <string name="profile_name">Dwiky Aprian Ashari</string>
+    <string name="hello_home">Aloha, <b>Dwiky!</b></string>
+    <string name="summary_title">Summary</string>
+    <string name="summary_desc">I am a 6th semester student at the University of Muhammadiyah Malang. As an Informatics student, I have developed my skills well by learning and sharing, especially in the area of software development. I am currently focused on the Android Development field. Apart from being a student, I am also active as a freelancer and it allows me to meet many people from different regions and countries, which helps me improve my communication skills with other people. With my determination and abilities, I believe I can become a great Android Developer!</string>
+    <string name="profile_title">My Profile</string>
+    <string name="touch_me">Touch Me</string>
 </resources>
